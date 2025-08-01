@@ -135,4 +135,5 @@ A machine learning model trained using IBM Watsonx.ai AutoAI that automatically 
 This project is licensed under the MIT License.  
 Created with ❤️ during the IBM SkillsBuild for Academia Internship 2025 by **Vrishabh Jawa** – Galgotias University, CSE (Data Science).
 
-Let’s connect! 👉 linkedin.com/in/vrishabh-jawa
+Let’s connect! 👉 www.linkedin.com/in/vrishabh-jawa
+
