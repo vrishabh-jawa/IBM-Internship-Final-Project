@@ -3,6 +3,8 @@ This project automates the scheme classification of rural roads and bridges acro
 # Intelligent Classification of Rural Infrastructure Projects (PMGSY) 🚜
 
 An AI-powered system designed to classify rural infrastructure projects under PMGSY-I, PMGSY-II, and RCPLWE schemes using only IBM Cloud tools. Built using IBM Watsonx.ai and AutoAI, this intelligent model enables accurate classification based on real project data like cost, road length, completion status, and location.
+
+
 <img width="1024" height="1024" alt="ChatGPT Image Aug 1, 2025, 03_58_24 PM" src="https://github.com/user-attachments/assets/ebdf9d72-3c16-420c-9f07-b53e54b3b03a" />
 
 
